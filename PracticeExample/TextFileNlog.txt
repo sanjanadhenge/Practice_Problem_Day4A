@@ -1,0 +1,2 @@
+﻿2023-06-15 15:19:04.3183|INFO|PracticeExample.NLog|Info: Sum()
+2023-06-15 15:19:04.7523|DEBUG|PracticeExample.NLog|Debug: Sum()14
