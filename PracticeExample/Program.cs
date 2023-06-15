@@ -15,8 +15,10 @@ namespace PracticeExample
         {
             //DemoExample demo = new DemoExample();
             //demo.Sum(5, 9);
-            ArrayListDemo arrayListDemo = new ArrayListDemo();
-            arrayListDemo.ArrayListOprations();
+            //ArrayListDemo arrayListDemo = new ArrayListDemo();
+            //arrayListDemo.ArrayListOprations();
+            DictionaryDemo dictionaryDemo = new DictionaryDemo();
+            dictionaryDemo.DictionaryOprations();
         }
 
     }
