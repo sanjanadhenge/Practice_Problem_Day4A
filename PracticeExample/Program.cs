@@ -13,8 +13,10 @@ namespace PracticeExample
 
         public static void Main(string[] args)
         {
-            DemoExample demo = new DemoExample();
-            demo.Sum(5, 9);
+            //DemoExample demo = new DemoExample();
+            //demo.Sum(5, 9);
+            ArrayListDemo arrayListDemo = new ArrayListDemo();
+            arrayListDemo.ArrayListOprations();
         }
 
     }
